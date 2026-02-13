@@ -1,5 +1,8 @@
 ## Hi there 👋
 I am a current Computer Science student at the Univeristy of Illinois at Chicago. This is my second year. 
+
+
+
 Relevant Courses:
 Data Structures
 Programming Practicum
