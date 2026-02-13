@@ -3,7 +3,7 @@ I am a current Computer Science student at the Univeristy of Illinois at Chicago
 
 
 
-Relevant Courses:
+Relevant Courses:                                                                                                                                      
 Data Structures
 Programming Practicum
 Machine Organization
