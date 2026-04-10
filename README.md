@@ -1,15 +1,18 @@
 ## Hi there 👋
-I am a current Computer Science student at the Univeristy of Illinois at Chicago. This is my second year. 
+<br> I am a current Computer Science student at the **Univeristy of Illinois at Chicago**. This is my second year. I have experience in Python, C++/C, Java, Swift. <br>
 
 
+Relevant Courses:                                                                                                                                 
+- Data Structures 
+- Programming Practicum 
+- Machine Organization
+- Languages and Automata
+- Computer Design
+- Software Design
+<br> <br>
 
-Relevant Courses:                                                                                                                                      
-Data Structures,
-Programming Practicum,
-Machine Organization,
-Languages and Automata,
-Computer Design,
-Software Design
+📫 How to reach me: ahmedyousef.tech@gmail.com
+
 <!--
 **ayousef5/ayousef5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
