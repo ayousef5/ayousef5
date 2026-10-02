@@ -1,29 +1,18 @@
 ## Hi there 👋
-<br> I am a current Computer Science student at the **Univeristy of Illinois at Chicago**. This is my second year. I have experience in Python, C++/C, Java, Swift. <br>
 
+I'm a Computer Science student at the **University of Illinois Chicago**, expected to graduate Fall 2027. I'm currently looking for Summer 2027 internships.
 
-Relevant Courses:                                                                                                                                 
-- Data Structures 
-- Programming Practicum 
-- Machine Organization
-- Languages and Automata
-- Computer Design
-- Software Design
-<br> <br>
+I'm an AI Intern at **SEKO Logistics**, where I build automation and data validation tools in C# and SQL that run in production. I also previously interned as an iOS App Developer at **Everyone Can Code Chicago**, where my team placed Top 4 out of 43 at the ECC Code+Create competition.
 
-📫 How to reach me: ahmedyousef.tech@gmail.com
+**Languages I work with:** Python, SQL, C#, C++, Java, JavaScript/TypeScript, Swift
 
-<!--
-**ayousef5/ayousef5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 A few projects I've built
+- 🔮 [Customer Churn Prediction](https://github.com/ayousef5/churn-prediction) — an end-to-end ML pipeline in Python using scikit-learn, with statistical testing to find what actually drives customer churn
+- 🗺️ UIC Open Street Map Navigation — a C++ app that finds the shortest path between any two buildings on campus using Dijkstra's algorithm
+- ☀️ [DailyWeather](https://github.com/ayousef5/weatherApp) — a JavaFX desktop app with real-time forecasts and weather animations
+- ✅ Firebase To-Do App — a full-stack app built with Next.js, React, and Firebase
 
-Here are some ideas to get you started:
+### Relevant Coursework
+Data Structures, Algorithms, Database Systems, Data Science, Software Design, Systems Programming, Probability and Statistics, Natural Language Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach me:** ahmedyousef.tech@gmail.com | [LinkedIn](https://linkedin.com/in/ahmedyousef1)
